@@ -13,7 +13,7 @@ An application designed for UJ students to connect with each other through an on
 
 ## Technologies Used
 - UI: HTML & CSS
-- Language: Java
+- Language: c#
 - Database: MySQL (hosted on [Aiven](https://aiven.io)) |
 - DB Connectivity: MySQL Connector (via NuGet Packages)
 - Password Security: BCrypt (via NuGet Packages)
